@@ -1,0 +1,152 @@
+import React from "react";
+import Container from "react-bootstrap/Container";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+
+const Companies = () => {
+  return (
+    <div className="mt-3">
+      <div className="text-center">
+        <h2 className=" fs-1 fw-bold text-primary">Successful Business Partners with 700+ Companies</h2>
+        <h2 className=" fs-1 fw-bold text-primary">We're Creative, Technical, Affordable, & Transparent</h2>
+      </div>
+      <Container>
+        <Row>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+        </Row>
+
+        <Row>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+          <Col>
+            <img
+              src="https://static-01.daraz.com.bd/p/ff7f994f14efd70637441baf07b353d1.jpg"
+              alt=""
+              width="90"
+              height="90"
+            />
+          </Col>
+        </Row>
+      </Container>
+    </div>
+  );
+};
+
+export default Companies;
