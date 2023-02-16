@@ -6,7 +6,7 @@ import "swiper/css/free-mode";
 import "swiper/css/autoplay";
 import Card from "react-bootstrap/Card";
 
-const ServiceCards = () => {
+const ServiceCarousel = () => {
   return (
     <div className="mt-3">
       <div className="py-4 px-4 justify-content-center">
@@ -214,4 +214,4 @@ const ServiceCards = () => {
   );
 };
 
-export default ServiceCards;
+export default ServiceCarousel;
